@@ -1,4 +1,10 @@
 ---
+WORLDWIDE:
+  alpha2: WORLDWIDE
+  alpha3: WORLDWIDE
+  name: "Worldwide"
+  names:
+    - "Worldwide"
 AD:
   continent: Europe
   alpha2: AD
